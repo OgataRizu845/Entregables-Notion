@@ -1,0 +1,34 @@
+Planteamiento del problema
+
+Las redes de trasporte público tuvieron la necesidad de tener un censo sobre el tiempo que tardaba una unidad en ir de un punto a otro, en específico, ya que comenzaron a surgir retrasos y gastos innecesarios, por lo cual optaron por tener personal extra(checadores) el cual se encarga de registrar estos tiempos, esto propuso una solución viable por un periodo, pero una de las inconsistencias de esa solución es la posibilidad de alterar los eventos por conveniencia del conductor y el checador, esto también ocasiona trafico a la hora de pasar la papeleta de chequeo así como perdida de información y de difícil comprensión o acceso. 
+
+Solución de Problema
+La aplicación "Check Driver" ofrece una solución innovadora para optimizar la gestión del transporte mediante la automatización del seguimiento de tiempos y rutas. Abordamos el desafío de agilizar los procesos de verificación de unidades de transporte, reducir el tráfico en las paradas y mejorar la organización general del sistema.
+
+Objetivo
+Nuestro objetivo principal es simplificar y agilizar el proceso de seguimiento y verificación de rutas de transporte público, proporcionando una plataforma intuitiva y eficiente tanto para los dueños de las unidades como para los conductores.
+
+Metas
+- Automatizar el registro y seguimiento de tiempos de llegada a cada parada.
+- Reducir costos operativos al eliminar la necesidad de personal dedicado exclusivamente a la verificación manual.
+- Facilitar a los conductores el acceso a la información de rutas, paradas y horarios de manera rápida y precisa.
+- Mantener un control riguroso sobre los tiempos de recorrido para mejorar la puntualidad y la eficiencia del servicio.
+
+Justificación
+La implementación de "Check Driver" es fundamental para mejorar la eficiencia del sistema de transporte, reducir costos operativos y proporcionar una experiencia más fluida y organizada tanto para los propietarios de unidades como para los conductores.
+
+Pertinencia Teórica
+Nuestra aplicación se basa en principios de optimización logística y gestión eficiente de recursos. Aprovechamos tecnologías modernas como Notion, Integración con API’S, lenguajes de programación , con el fin de simplificar tareas complejas relacionadas con la planificación y ejecución de rutas de transporte.
+
+Impacto Social
+El impacto social de "Check Driver" es significativo, ya que contribuye a reducir el tráfico innecesario en las paradas de transporte, mejora la puntualidad de los servicios y, en última instancia, mejora la experiencia de viaje para los usuarios.
+
+Descripción
+"Check Driver" es una aplicación diseñada para facilitar el seguimiento y la gestión de unidades de transporte público. Los conductores solo necesitan ingresar su ID para acceder a la información detallada de su ruta, paradas y tiempos de llegada estimados. La aplicación permite realizar un registro automatizado de los tiempos de cada parada con un simple toque de botón, proporcionando datos en tiempo real para mejorar la eficiencia operativa y la puntualidad del servicio.
+
+Equipo Heartbreakers
+@PatoCrazy_
+@Martin
+@ogata._.rizu
+@jrsc_5
+@jenni
